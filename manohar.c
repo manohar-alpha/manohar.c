@@ -1,0 +1,16 @@
+#include<stdio.h>
+void main() {
+  int first, second, temp;
+  first = 10;
+  second =20;
+  // swapping first and second
+  temp = first;
+  first = second;
+  second = temp;
+  printf("After swap: %d,%d",first,second);
+}#include<studio.h>
+void main()
+{
+int a=10;
+printf("%d",&a);
+}
